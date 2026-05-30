@@ -11,6 +11,7 @@ The sample app uses a simple customer support workflow, but the main goal is bro
   - [Overview](#overview)
   - [Why MCP?](#why-mcp)
   - [Architecture](#architecture)
+  - [Who Is This Project For?](#who-is-this-project-for)
   - [What This Project Demonstrates](#what-this-project-demonstrates)
   - [Example Workflow](#example-workflow)
     - [User request](#user-request)
@@ -24,7 +25,7 @@ The sample app uses a simple customer support workflow, but the main goal is bro
     - [2. Create a virtual environment](#2-create-a-virtual-environment)
     - [3. Install dependencies](#3-install-dependencies)
     - [4. Run the MCP server](#4-run-the-mcp-server)
-  - [Configure an MCP Client](#configure-an-mcp-client)
+  - [Configure an MCP AI Client](#configure-an-mcp-ai-client)
   - [Try the Demo](#try-the-demo)
   - [Real-World Applications](#real-world-applications)
   - [Future Enhancements](#future-enhancements)
@@ -78,6 +79,17 @@ This reduces integration complexity and makes application functionality easier t
 ## Architecture
 
 ![MCP Architecture](mermaid-mcp-architecture.png)
+
+## Who Is This Project For?
+
+This project is designed for:
+
+- Developers learning MCP
+- Data scientists exploring Agentic AI
+- Engineers interested in AI tool integrations
+- Anyone who wants to expose an existing Python application to AI agents
+
+No prior MCP experience is required.
 
 At a high level:
 
@@ -196,9 +208,9 @@ pip install -r requirements.txt
 python src/server.py
 ```
 
-## Configure an MCP Client
+## Configure an MCP AI Client
 
-Add this server to your MCP-compatible client configuration.
+Add this server to your MCP-compatible AI client configuration.
 
 Example Cline configuration:
 
