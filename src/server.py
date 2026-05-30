@@ -46,7 +46,7 @@ def check_inventory(item_name: str) -> str:
     if stock is None:
         return f"Error: Item '{item_name}' does not exist in our product catalog."
     if stock == 0:
-        return f"Item '{item_name}' is in STOCK. Quantity available: {stock}"
+        return f"Item '{item_name}' is out of stock."
 
 
 @mcp.tool()
