@@ -1,0 +1,13 @@
+#Enviroments
+.env
+.venv
+env/
+venv/
+
+#Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
