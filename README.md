@@ -277,11 +277,8 @@ Possible next steps:
 
 - Add real database integration
 - Add authentication and authorization
-- Connect to external APIs
+- Connect to external MCP Servers
 - Deploy the MCP server remotely
-- Add logging and monitoring
-- Add test coverage
-- Support multi-agent workflows
 - Integrate with enterprise systems
 
 ## Key Takeaway
