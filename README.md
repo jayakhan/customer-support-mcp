@@ -286,3 +286,8 @@ Possible next steps:
 This project is not really about customer support.
 
 It is about demonstrating how a traditional Python application can be transformed into an MCP-compatible service and made accessible to AI agents through natural language.
+
+## References
+
+[^1]: [MCP Official Introduction](https://modelcontextprotocol.io/docs/getting-started/intro)
+[^2]: [Cyanheads MCP Resources GitHub](https://github.com/cyanheads/model-context-protocol-resources)
