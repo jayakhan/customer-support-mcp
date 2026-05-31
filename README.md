@@ -289,6 +289,8 @@ It is about demonstrating how a traditional Python application can be transforme
 
 ## References
 
-[^1]: [MCP Official Introduction](https://modelcontextprotocol.io/docs/getting-started/intro)
-[^2]: [Cyanheads MCP Resources GitHub](https://github.com/cyanheads/model-context-protocol-resources)
+1. [MCP Official Introduction](https://modelcontextprotocol.io/docs/getting-started/intro)
+2. [Cyanheads MCP Resources GitHub](https://github.com/cyanheads/model-context-protocol-resources)
+3. [FastMCP Documentation] (https://gofastmcp.com/getting-started/welcome)
+4. [Cline as AI Client] (https://docs.cline.bot/cline-overview)
 
