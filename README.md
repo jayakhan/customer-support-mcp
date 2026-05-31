@@ -291,3 +291,4 @@ It is about demonstrating how a traditional Python application can be transforme
 
 [^1]: [MCP Official Introduction](https://modelcontextprotocol.io/docs/getting-started/intro)
 [^2]: [Cyanheads MCP Resources GitHub](https://github.com/cyanheads/model-context-protocol-resources)
+
