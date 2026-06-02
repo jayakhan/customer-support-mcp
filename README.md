@@ -7,7 +7,6 @@ The sample app uses a simple customer support workflow, but the main goal is bro
 ## Table of Contents
 
 - [From Python Application to MCP Server](#from-python-application-to-mcp-server)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Why MCP?](#why-mcp)
   - [Architecture](#architecture)
@@ -30,6 +29,8 @@ The sample app uses a simple customer support workflow, but the main goal is bro
   - [Real-World Applications](#real-world-applications)
   - [Future Enhancements](#future-enhancements)
   - [Key Takeaway](#key-takeaway)
+  - [References](#references)
+
 
 ## Overview
 
